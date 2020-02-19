@@ -1,5 +1,5 @@
 {
-  "name": "ColourNTP",
+  "name": "colour-npt",
   "version": "0.0.0",
   "description": "Chrome new tab page based on http://whatcolourisit.scn9a.org/",
   "author": "Eugene Cheung",
@@ -24,11 +24,11 @@
     "react-dom": "^16.11.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.4",
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/plugin-transform-react-jsx": "^7.3.0",
-    "@babel/preset-env": "^7.6.3",
-    "@babel/register": "^7.6.2",
+    "@babel/core": "^7.8.4",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-transform-react-jsx": "^7.8.3",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/register": "^7.8.3",
     "babel-loader": "^8.0.6",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
@@ -37,6 +37,6 @@
     "gulp-sass": "^4.0.2",
     "gulp-zip": "^5.0.1",
     "raw-loader": "^3.1.0",
-    "webpack": "^4.41.2"
+    "webpack": "^4.41.6"
   }
 }
